@@ -82,3 +82,9 @@ Open the application on your browser `127.0.0.1:8000`.
 
 ## Contact Information   
 If you have any question or contributions, please email me at [sonnieessy@gmail.com]  
+
+  
+## License 
+
+* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)]()  
+* Copyright (c) 2020 **Essy Mwangi**
