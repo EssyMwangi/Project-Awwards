@@ -34,3 +34,7 @@ To get the project .......
  ```bash 
  https://github.com/EssyMwangi/awwards
 ```
+##### Navigate into the folder and install requirements  
+ ```bash 
+cd project-awwards
+```
