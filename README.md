@@ -6,7 +6,7 @@
 This project allows users to post their projects for other users to rate according to design, usability and content.
 
 ##  Live Link  
-Click [View Site]()  to visit the site
+Click [View Site](https://awwardsbyess.herokuapp.com/)  to visit the site
 
 
 ## Screenshots 
@@ -86,5 +86,5 @@ If you have any question or contributions, please email me at [sonnieessy@gmail.
   
 ## License 
 
-* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)]()  
+* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/EssyMwangi/awwards/blob/development/LICENSE)  
 * Copyright (c) 2020 **Essy Mwangi**
