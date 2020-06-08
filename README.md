@@ -13,3 +13,8 @@ Click [View Site]()  to visit the site
 ###### Home page
  
 <img src="">
+
+###### Rating page
+ <img src=""> 
+
+
