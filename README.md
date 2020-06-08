@@ -12,10 +12,10 @@ Click [View Site]()  to visit the site
 ## Screenshots 
 ###### Home page
  
-<img src="https://user-images.githubusercontent.com/44394821/84069551-5eafe200-a9d3-11ea-97c7-23450fce770b.png">
+<img src="">
 
 ###### Rating page
- <img src="https://user-images.githubusercontent.com/44394821/84069562-62436900-a9d3-11ea-84c7-b4f6ea9244d5.png"> 
+ <img src=""> 
 
 ## User Story  
   
