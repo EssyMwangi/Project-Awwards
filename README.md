@@ -70,3 +70,7 @@ Open the application on your browser `127.0.0.1:8000`.
  * https://awwardsbyess.herokuapp.com/api/users/
  * https://awwardsbyess.herokuapp.com/api/profile/
  * https://awwardsbyess.herokuapp.com/api/posts/
+
+## Technology used  
+  
+* [Python3.6](https://www.python.org/)  
