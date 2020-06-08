@@ -22,4 +22,5 @@ Click [View Site]()  to visit the site
 * A user can view posted projects and their details. 
 * A user can post a project to be rated/reviewed. 
 * A user can rate/ review other users' projects. 
-* Search for projects.  
+* Search for projects. 
+* View projects overall score. 
