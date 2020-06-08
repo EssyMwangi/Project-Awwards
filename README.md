@@ -17,4 +17,6 @@ Click [View Site]()  to visit the site
 ###### Rating page
  <img src=""> 
 
-
+## User Story  
+  
+* A user can view posted projects and their details. 
