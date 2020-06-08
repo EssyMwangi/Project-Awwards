@@ -20,3 +20,4 @@ Click [View Site]()  to visit the site
 ## User Story  
   
 * A user can view posted projects and their details. 
+* A user can post a project to be rated/reviewed. 
