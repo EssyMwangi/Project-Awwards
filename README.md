@@ -29,3 +29,8 @@ Click [View Site]()  to visit the site
   
 ## Setup and Installation  
 To get the project .......  
+
+##### Cloning the repository:  
+ ```bash 
+ https://github.com/EssyMwangi/awwards
+```
