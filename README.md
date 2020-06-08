@@ -38,3 +38,8 @@ To get the project .......
  ```bash 
 cd project-awwards
 ```
+##### Install and activate Virtual  
+ ```bash 
+- python3 -m venv virtual
+- source virtual/bin/activate  
+```  
