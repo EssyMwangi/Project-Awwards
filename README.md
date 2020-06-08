@@ -34,7 +34,7 @@ To get the project .......
  ```bash 
  https://github.com/EssyMwangi/awwards
 ```
-##### Navigate into the folder and install requirements  
+##### Navigate into the folder
  ```bash 
 cd project-awwards
 ```
@@ -42,4 +42,8 @@ cd project-awwards
  ```bash 
 - python3 -m venv virtual
 - source virtual/bin/activate  
+```  
+##### Install Dependencies  
+ ```bash 
+ pip install -r requirements.txt 
 ```  
