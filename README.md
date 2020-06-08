@@ -60,3 +60,7 @@ python manage.py makemigrations instagram
  ```bash 
  python manage.py runserver 
 ``` 
+##### Testing the application  
+ ```bash 
+ python manage.py test 
+```
