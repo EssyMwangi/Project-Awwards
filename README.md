@@ -6,16 +6,16 @@
 This project allows users to post their projects for other users to rate according to design, usability and content.
 
 ##  Live Link  
-Click [View Site]()  to visit the site
+Click [View Site](https://awwardsbyess.herokuapp.com/)  to visit the site
 
 
 ## Screenshots 
 ###### Home page
  
-<img src="">
+<img src="https://user-images.githubusercontent.com/44394821/84233277-b301b180-aafa-11ea-9e10-13843360199b.png">
 
 ###### Rating page
- <img src=""> 
+ <img src="https://user-images.githubusercontent.com/44394821/84233280-b5640b80-aafa-11ea-9f90-ac57c7faab1d.png"> 
 
 ## User Story  
   
